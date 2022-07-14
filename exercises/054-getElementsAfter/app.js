@@ -1,3 +1,4 @@
 function getElementsAfter(array, n) {
-  // your code here
+  
+  return array.splice(2,n)
 }
