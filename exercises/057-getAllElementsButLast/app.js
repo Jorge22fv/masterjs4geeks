@@ -1,4 +1,4 @@
 function getAllElementsButLast(array) {
-    return array.slice(-2)
+    return array.slice(0,-1)
 
 }
